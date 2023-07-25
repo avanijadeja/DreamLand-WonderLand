@@ -4,12 +4,6 @@
 
 Welcome to DreamLand-WonderLand, the premium destination for organic Pajamas designed for both kids and adults. This sophisticated MERN stack application offers users a seamless shopping experience, enabling them to conveniently browse and purchase our exclusive collection. By providing comprehensive user functionalities, including secure login, registration, and logout features, customers can effortlessly manage their shopping preferences and selections. Our platform ensures essential shopping details, such as age, size, color, and category, are readily available to enhance the shopping process and cater to individual preferences.
 
-
-
-
-
-
-
 ## Table of Contents:
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
@@ -25,7 +19,6 @@ Welcome to DreamLand-WonderLand, the premium destination for organic Pajamas des
 # Overview
 
 ## The Challenge:
-
 
 The primary objective for our team was to develop an exemplary e-commerce website that not only boasts a user-friendly interface but also incorporates extensive functionality. A fundamental aspect of this application was to facilitate seamless shopping experiences for users seeking to purchase organic and earth-friendly Pajamas, thereby contributing to our collective efforts to save the environment.
 
@@ -68,18 +61,23 @@ It is accessible on various devices and screen sizes.
  5. Proceed to secure checkout on your favorite items
 
  
-## Deployed Herok Application Link: (Coming Soon)
-[Deployed Heroku Application Link:]
+## Deployed Herok Application Link: 
+https://arcane-spire-25027-6f1b8d854313.herokuapp.com/
 
 ## GitHub Repository:
-[GitHub Repository:] (https://github.com/Sunny9810/DreamLand-WonderLand)
+https://github.com/avanijadeja/DreamLand-WonderLand
 
 
 ## Screenshots:
-### Figure 1. WIREFRAME Screenshot.
-
-## Screenshots:
-### Figure 2. Deployed Application Screenshot.
+![LoginPage](./client/src/assets/images/OutputLogin.png)
+![SignupPage](./client/src/assets/images/OutputSignup.png)
+![MainPage](./client/src/assets/images/OutputMainPage.png)
+![BabyPage](./client/src/assets/images/OutputBabyPage.png)
+![KidsPage](./client/src/assets/images/OutputKidsPage.png)
+![GrownupPage](./client/src/assets/images/OutputGrownUpWithCart.png)
+![SuccessPage](./client/src/assets/images/OutputSuccessPage.png)
+![OrderHistoryPage](./client/src/assets/images/OutputOrder.png)
+![project3DemoGIF](./client/src/assets/images/project3demo.gif)
 
 ## Installation Process:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
