@@ -48,9 +48,7 @@ It is accessible on various devices and screen sizes.
 ```
 
 ## GIF:
-### Figure 1. GIF.
-
-#### The following animation demonstrates the application functionality:(Coming Soon)
+![project3DemoGIF](./client/src/assets/images/project3demo.gif)
 
 ## Usage Instructions:
 
@@ -77,7 +75,7 @@ https://github.com/avanijadeja/DreamLand-WonderLand
 ![GrownupPage](./client/src/assets/images/OutputGrownUpWithCart.png)
 ![SuccessPage](./client/src/assets/images/OutputSuccessPage.png)
 ![OrderHistoryPage](./client/src/assets/images/OutputOrder.png)
-![project3DemoGIF](./client/src/assets/images/project3demo.gif)
+
 
 ## Installation Process:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
